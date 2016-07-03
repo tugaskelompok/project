@@ -1,3 +1,7 @@
+<html>
+<head></head>
+<body>
+<p>
 Assalamualaikum saya Mahasiswa berasal dari Universitas Islam Negeri Sulatan Syarif Kasim Pekanbaru - Riau dikampus 
 Saya adalah Ilham Fazri
 
@@ -8,3 +12,6 @@ Tujuan pembuatan website ini adalah
 2. Sebagai tugas besar dalam matakuliah Mobile Application
 
 Cukup Sekian perkenalan dan alasan mengapa website ini dibuat.
+</p>
+</body>
+</html>
